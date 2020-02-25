@@ -1,7 +1,5 @@
-# Project Title
-
-One Paragraph of project description goes here
-![RESULT](./images/Momentum_result1.png);
+# 크롬의 Momentum 만들어보기
+![RESULT](./images/Momentum_result1.png)
 
 ## Getting Started
 
