@@ -1,16 +1,16 @@
 # :pencil: 크롬의 Momentum 만들어보기
 ![RESULT](./images/Momentum_result2.png)
 
-## Built With
+## :sparkles: Built With
 
 * [Vanilla JS](http://vanilla-js.com/)
 * [Weather API](https://openweathermap.org/api)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-## Authors
+## :see_no_evil: Authors
 
 * **heeseonim** - [heeseonim](https://github.com/heeseonim)
 
-## License
+## :label: License
 
 This project is licensed under the [Nomad Coders](https://academy.nomadcoders.co/)
