@@ -1,5 +1,5 @@
 # 크롬의 Momentum 만들어보기
-![RESULT](./images/Momentum_result2.png)
+![RESULT](./images/4.gif)
 
 ## Getting Started
 
