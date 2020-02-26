@@ -1,4 +1,4 @@
-# :pencil: 크롬의 Momentum 만들어보기
+# :pencil: ToDo List
 ![RESULT](./images/4.gif)
 
 ## :sparkles: Built With
